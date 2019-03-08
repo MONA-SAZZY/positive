@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class posnegzer
+class pass 
 {
     public static void main(String[]args)
     
